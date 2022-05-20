@@ -1,0 +1,13 @@
+{
+    "name": "canyouNFT",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/access_control/core-administrator_role": true,
+        "/category/nft/core-custom_nft/template": "none"
+    }
+}
